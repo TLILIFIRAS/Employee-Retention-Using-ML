@@ -6,7 +6,7 @@ I'm thrilled to share the remarkable achievements of our latest project, "End To
 
 In this comprehensive Machine Learning project, we've embarked on an incredible journey through the entire ML project lifecycle. 🌐
 
-![Visualization](Screenshot 2023-10-22 114641.png)
+![Visualization](./Screenshot 2023-10-22 114641.png)
 
 ## Achievements
 
