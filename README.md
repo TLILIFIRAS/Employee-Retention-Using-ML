@@ -6,6 +6,8 @@ I'm thrilled to share the remarkable achievements of our latest project, "End To
 
 In this comprehensive Machine Learning project, we've embarked on an incredible journey through the entire ML project lifecycle. 🌐
 
+![Project Image](Screenshot 2023-10-22 114641.png)
+
 ## Achievements
 
 - **Data Collection Pipeline**: We established a robust data collection pipeline, ensuring that we had the right data at the right time.
